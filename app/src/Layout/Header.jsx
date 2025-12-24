@@ -11,7 +11,7 @@ export default function Header() {
         {/* Logo (Boyutlar Korundu) */}
         <Link to="/" className="flex items-center">
           <img
-            src="../public/ACSLogo.png"
+            src="/ACSLogo.png"
             alt="ACS Logo"
             className="h-25 w-60 object-contain" // Orijinal boyut korundu
           />

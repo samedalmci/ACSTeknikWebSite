@@ -2,7 +2,7 @@ import React from "react";
 import { Phone, Mail, MapPin, Clock } from "lucide-react";
 
 // Varsayılan resmi bir değişken olarak tanımlayalım
-const defaultImageSrc = "../public/BeyazEsya2.jpg";
+const defaultImageSrc = "/BeyazEsya2.jpg";
 
 export default function Contact() {
   return (

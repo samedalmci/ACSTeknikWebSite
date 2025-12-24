@@ -6,7 +6,7 @@ export default function MainHero() {
       {/* Background Image - Tam Ekranı Kaplar */}
       <div className="absolute inset-0 z-0">
         <img
-          src="../public/MainHero.jpg"
+          src="/MainHero.jpg"
           alt="Servis Görseli"
           className="w-full h-full object-cover"
         />
