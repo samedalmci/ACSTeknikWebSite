@@ -7,37 +7,37 @@ const services = [
     title: "Bulaşık Makinesi Servisi",
     description:
       "Bulunduğunuz bölgede Bulaşık Makineleriniz için servis ihtiyacı duyduğunuzda Muğla geneli servis ağına sahip firmamızı 7/24 arayabilir ve arıza kaydı oluşturarak destek alabilirsiniz.",
-    imageSrc: "/images/Dishwasher.jpg",
+    imageSrc: "../public/Dishwasher.jpg",
   },
   {
     title: "Çamaşır Makinesi Servisi",
     description:
       "Bulunduğunuz bölgede Çamaşır Makineleriniz için servis ihtiyacı duyduğunuzda Muğla geneli servis ağına sahip firmamızı 7/24 arayabilir ve arıza kaydı oluşturarak destek alabilirsiniz.",
-    imageSrc: "/images/WashingMachine.jpg",
+    imageSrc: "../public/WashingMachine.jpg",
   },
   {
     title: "Buzdolabı Servisi",
     description:
       "Bulunduğunuz bölgede Buzdolaplarınız için servis ihtiyacı duyduğunuzda Muğla geneli servis ağına sahip firmamızı 7/24 arayabilir ve arıza kaydı oluşturarak destek alabilirsiniz.",
-    imageSrc: "/images/Refrigerator.jpg",
+    imageSrc: "../public/Refrigerator.jpg",
   },
   {
     title: "Klima Servisi",
     description:
       "Bulunduğunuz bölgede Klimalarınız için servis ihtiyacı duyduğunuzda Muğla geneli servis ağına sahip firmamızı 7/24 arayabilir ve arıza kaydı oluşturarak destek alabilirsiniz.",
-    imageSrc: "/images/AirConditioner.jpg",
+    imageSrc: "../public/AirConditioner.jpg",
   },
   {
     title: "Fırın Servisi",
     description:
       "Bulunduğunuz bölgede Fırınlarınız için servis ihtiyacı duyduğunuzda Muğla geneli servis ağına sahip firmamızı 7/24 arayabilir ve arıza kaydı oluşturarak destek alabilirsiniz.",
-    imageSrc: "/images/Oven.jpg",
+    imageSrc: "../public/Oven.jpg",
   },
   {
     title: "Kombi Servisi",
     description:
       "Bulunduğunuz bölgede Kombileriniz için servis ihtiyacı duyduğunuzda Muğla geneli servis ağına sahip firmamızı 7/24 arayabilir ve arıza kaydı oluşturarak destek alabilirsiniz.",
-    imageSrc: "/images/Boiler.jpg",
+    imageSrc: "../public/Boiler.jpg",
   },
 ];
 

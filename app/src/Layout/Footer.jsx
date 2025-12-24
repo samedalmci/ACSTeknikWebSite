@@ -1,8 +1,8 @@
 import { Link } from "react-router-dom";
 import "/src/index.css";
 // ACS Teknik logosunu varsayılan yola göre buraya ekliyoruz
-// Lütfen "/images/ACSLogo.png" yolunun projenizde doğru olduğunu doğrulayın.
-import ACSLogo from "/images/ACSLogo.png";
+// Lütfen "/src/assets/ACSLogo.png" yolunun projenizde doğru olduğunu doğrulayın.
+import ACSLogo from "/src/assets/ACSLogo.png";
 
 export default function Footer() {
   return (
